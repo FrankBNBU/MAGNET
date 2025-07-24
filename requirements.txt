@@ -1,0 +1,34 @@
+# Core ML and Data Science Libraries
+torch>=1.9.0
+torch-geometric>=2.0.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Graph and Network Analysis
+networkx>=2.6
+node2vec>=0.4.0
+
+# Visualization and UI
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+rich>=10.0.0
+
+# Machine Learning Utilities
+tqdm>=4.62.0
+wandb>=0.12.0
+
+# Additional dependencies found in code
+igviz  # For interactive graph visualization
+bio_validation  # Custom bio validation module (if available)
+
+# Optional: For Jupyter notebooks (if needed)
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Development and Testing
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
