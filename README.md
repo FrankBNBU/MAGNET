@@ -50,6 +50,3 @@ Multi-view graph autoencoder with:
 - `*_trained_gae_model_*.pth` - Model weights
 - `*_metrics_*.csv` - Training metrics
 - `reconstructed_*_adjacency.npy` - Reconstructed adjacency matrices
-
-# MAGNET
->>>>>>> 3e5e66c1c605c485bd4242e4c534a4df57a21fd9
